@@ -9,3 +9,11 @@ A concise overview of Earth’s 23.5‑degree axial tilt, its physical causes, a
 - [License](LICENSE)
 
 
+- **Full Ebook — The End of Time**  
+  [Read the complete book (HTML)](https://raphaelasanti.github.io/the-end-of-time/)
+
+
+
+---
+
+Additional background context is available [here](https://raphaelasanti.github.io/the-eye-of-the-needle/).
