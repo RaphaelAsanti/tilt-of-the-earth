@@ -1,2 +1,11 @@
-# tilt-of-the-earth
-Documentation of Earth’s 23.5‑degree axial tilt, its physical effects, and its link to agricultural cycles and planetary wobble. Includes a structural comparison to narrative patterns of agricultural resistance and cyclical hardship.
+# Tilt of the Earth
+
+A concise overview of Earth’s 23.5‑degree axial tilt, its physical causes, and its effects on seasons, agricultural cycles, and planetary wobble. This repository documents the physical structure and its broader implications within natural patterns.
+
+## Files
+
+- [Ebook Excerpt (PDF)](tilt-of-the-earth.pdf)
+- [Index Page](index.html)
+- [License](LICENSE)
+
+
