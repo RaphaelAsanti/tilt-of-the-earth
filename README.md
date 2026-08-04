@@ -14,7 +14,7 @@ This page outlines the physical posture, the underlying mechanism, and the simpl
   https://raphaelasanti.github.io/endoftime/
 
 - **License**  
-  https://raphaelasanti.github.io/tilt-of-the-earth/LICENSE.txt
+https://github.com/RaphaelAsanti/tilt-of-the-earth/blob/main/LICENSE
 
 ## Author
 Raphael E. Asanti  
@@ -23,3 +23,27 @@ July 2026
 ## Related Pages
 - **Main Index**  
   https://raphaelasanti.github.io/
+  
+---
+
+### Donate
+This work is sustained entirely by voluntary contributions.
+
+**Cash App**  
+https://cash.app/$phirunltd
+
+**Gumroad (optional donation when downloading)**  
+https://phirun4.gumroad.com/l/zsmzjh
+
+---
+
+### Contribute
+Share the public page on your social media to extend its reach:
+
+https://raphaelasanti.github.io/woman-in-the-wilderness/
+
+---
+
+**Free Ebook**  
+If you prefer not to donate, the same eBook is available here:
+https://github.com/raphaelasanti/the-end-of-time/
