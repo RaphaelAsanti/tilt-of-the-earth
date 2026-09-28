@@ -46,4 +46,4 @@ https://raphaelasanti.github.io/woman-in-the-wilderness/
 
 **Free Ebook**  
 If you prefer not to donate, the same eBook is available here:
-https://github.com/raphaelasanti/the-end-of-time/
+https://raphaelasanti.github.io/the-end-of-time/
